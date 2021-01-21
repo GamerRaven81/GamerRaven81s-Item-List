@@ -3542,13 +3542,13 @@
 	},
 	{
 		"abr": "elderbrain",
-		"price": 16667,
+		"price": 15000,
 		"category": "Manufactured",
 		"defname": "O21_Item_ElderBrain"
 	},
 	{
 		"abr": "elderbrainpool",
-		"price": 17283,
+		"price": 17000,
 		"category": "Misc",
 		"defname": "O21_Building_ElderBrainPool"
 	},
@@ -4563,7 +4563,7 @@
 	{
 		"abr": "monument",
 		"price": 2100,
-		"category": "Art",
+		"category": "",
 		"defname": "VFE_Monument"
 	},
 	{
@@ -5081,7 +5081,5155 @@
 		"price": 442,
 		"category": "Art",
 		"defname": "VFE_Plinth"
+	},
+	{
+		"abr": "plums",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPlum"
+	},
+	{
+		"abr": "poodle",
+		"price": 417,
+		"category": "Animal",
+		"defname": "AEXP_Poodle"
+	},
+	{
+		"abr": "porcupine",
+		"price": 200,
+		"category": "Animal",
+		"defname": "AEXP_Porcupine"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 189,
+		"category": "Power",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "pottery",
+		"price": 143,
+		"category": "Art",
+		"defname": "VFE_Pottery"
+	},
+	{
+		"abr": "pricklypears",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPricklyPear"
+	},
+	{
+		"abr": "proteinmash",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_ProteinMash"
+	},
+	{
+		"abr": "prunes",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPrunes"
+	},
+	{
+		"abr": "psychicpylon",
+		"price": 2167,
+		"category": "Special",
+		"defname": "VFES_PsychicPylon"
+	},
+	{
+		"abr": "pug",
+		"price": 500,
+		"category": "Animal",
+		"defname": "AEXP_Pug"
+	},
+	{
+		"abr": "pumpkin",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawpumpkin"
+	},
+	{
+		"abr": "punchingbag",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Joy_PunchingBag"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "rattlesnake",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_Rattlesnake"
+	},
+	{
+		"abr": "rattlesnakeegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggRattlesnakeFertilized"
+	},
+	{
+		"abr": "rattlesnakeegg(unfert.)",
+		"price": 47,
+		"category": "Eggs (unfert.)",
+		"defname": "AEXP_EggRattlesnakeUnfertilized"
+	},
+	{
+		"abr": "rawfish",
+		"price": 3,
+		"category": "Meat",
+		"defname": "AEXP_RawFish"
+	},
+	{
+		"abr": "redbarrel",
+		"price": 148,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_BarrelRed"
+	},
+	{
+		"abr": "redbeefsteaktomatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawTomatoes"
+	},
+	{
+		"abr": "redcargocontainer",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_ContainerRed"
+	},
+	{
+		"abr": "redlentil",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RawRedLentil"
+	},
+	{
+		"abr": "redpanda",
+		"price": 417,
+		"category": "Animal",
+		"defname": "AEXP_RedPanda"
+	},
+	{
+		"abr": "relief",
+		"price": 1983,
+		"category": "Art",
+		"defname": "VFE_Relief"
+	},
+	{
+		"abr": "repairshelf",
+		"price": 2908,
+		"category": "Furniture",
+		"defname": "Shelf_RepairRack"
+	},
+	{
+		"abr": "resonancerifle",
+		"price": 272,
+		"category": "Ranged weapons",
+		"defname": "O21_Gun_ResonanceRifle"
+	},
+	{
+		"abr": "resourcescrate1",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_1ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate10",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_10ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate2",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_2ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate3",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_3ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate4",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_4ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate5",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_5ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate6",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_6ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate7",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_7ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate8",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_8ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate9",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "JDS_9ResourcesCrate"
+	},
+	{
+		"abr": "roboticcomponent",
+		"price": 333,
+		"category": "Items",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboticmatrix(advanced)",
+		"price": 8817,
+		"category": "Items",
+		"defname": "RPP_Matrix_IV"
+	},
+	{
+		"abr": "roboticmatrix(anti-logic)",
+		"price": 17967,
+		"category": "Items",
+		"defname": "RPP_Matrix_V"
+	},
+	{
+		"abr": "roboticmatrix(basic)",
+		"price": 1825,
+		"category": "Items",
+		"defname": "RPP_Matrix_II"
+	},
+	{
+		"abr": "roboticmatrix(intermediate)",
+		"price": 4158,
+		"category": "Items",
+		"defname": "RPP_Matrix_III"
+	},
+	{
+		"abr": "roboticmatrix(simple)",
+		"price": 775,
+		"category": "Items",
+		"defname": "RPP_Matrix_I"
+	},
+	{
+		"abr": "roboticsworkbench",
+		"price": 1475,
+		"category": "Production",
+		"defname": "Table_RPP_RoboticsBench"
+	},
+	{
+		"abr": "rockchair",
+		"price": 5,
+		"category": "Furniture",
+		"defname": "DZ_RockChair"
+	},
+	{
+		"abr": "rocktable",
+		"price": 10,
+		"category": "Furniture",
+		"defname": "DZ_RockTable"
+	},
+	{
+		"abr": "rottweiler",
+		"price": 417,
+		"category": "Animal",
+		"defname": "AEXP_Rottweiler"
+	},
+	{
+		"abr": "roulettetable",
+		"price": 708,
+		"category": "Furniture",
+		"defname": "Joy_RouletteTable"
+	},
+	{
+		"abr": "royalarmchair",
+		"price": 1583,
+		"category": "Furniture",
+		"defname": "Seat_RoyalArmchair"
+	},
+	{
+		"abr": "royalchair",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "Seat_RoyalChair"
+	},
+	{
+		"abr": "royaldresser",
+		"price": 1175,
+		"category": "Furniture",
+		"defname": "Table_RoyalDresser"
+	},
+	{
+		"abr": "royalendtable",
+		"price": 742,
+		"category": "Furniture",
+		"defname": "Table_RoyalEndTable"
+	},
+	{
+		"abr": "royalposterbed",
+		"price": 2067,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize"
+	},
+	{
+		"abr": "royaltable(1x1)",
+		"price": 280,
+		"category": "Furniture",
+		"defname": "Table_Royal1x1c"
+	},
+	{
+		"abr": "royaltable(1x2)",
+		"price": 542,
+		"category": "Furniture",
+		"defname": "Table_Royal1x2c"
+	},
+	{
+		"abr": "royaltable(2x2)",
+		"price": 1092,
+		"category": "Furniture",
+		"defname": "Table_Royal2x2c"
+	},
+	{
+		"abr": "royaltable(2x4)",
+		"price": 1475,
+		"category": "Furniture",
+		"defname": "Table_Royal2x4c"
+	},
+	{
+		"abr": "royaltable(3x3)",
+		"price": 1617,
+		"category": "Furniture",
+		"defname": "Table_Royal3x3c"
+	},
+	{
+		"abr": "safe",
+		"price": 1017,
+		"category": "Furniture",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "safe",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "JDSSafe"
+	},
+	{
+		"abr": "sakuranbo",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawCherry"
+	},
+	{
+		"abr": "scarecrow",
+		"price": 129,
+		"category": "Misc",
+		"defname": "VFE_Scarecrow"
+	},
+	{
+		"abr": "seal",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_Seal"
+	},
+	{
+		"abr": "searchlight",
+		"price": 475,
+		"category": "Security",
+		"defname": "VFES_Turret_Searchlight"
+	},
+	{
+		"abr": "sentrygun",
+		"price": 1058,
+		"category": "Security",
+		"defname": "VFES_Turret_SentryGun"
+	},
+	{
+		"abr": "shelf(1x1)",
+		"price": 52,
+		"category": "Furniture",
+		"defname": "Shelf_1x1c"
+	},
+	{
+		"abr": "shelfa(empty)",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "JDSShelf_A_Empty"
+	},
+	{
+		"abr": "shelfa(full)",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "JDSShelf_A_Full"
+	},
+	{
+		"abr": "shih-tzu",
+		"price": 500,
+		"category": "Animal",
+		"defname": "AEXP_Shih-Tzu"
+	},
+	{
+		"abr": "shippingcontainerblue",
+		"price": 9033,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerBlue"
+	},
+	{
+		"abr": "shippingcontainergreen",
+		"price": 9783,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerGreen"
+	},
+	{
+		"abr": "shippingcontainerred",
+		"price": 9783,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerRed"
+	},
+	{
+		"abr": "siamesecat",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_CatSiamese"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "silo",
+		"price": 3275,
+		"category": "Furniture",
+		"defname": "JDSSilo"
+	},
+	{
+		"abr": "simplebed",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "Bed_Simple"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "sittingcushion",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Seat_Cushion"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "skullmask",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROMB_Apparel_SkullMask"
+	},
+	{
+		"abr": "skullthrone",
+		"price": 1917,
+		"category": "Furniture",
+		"defname": "BoneThrone"
+	},
+	{
+		"abr": "slabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlab"
+	},
+	{
+		"abr": "slavebrand",
+		"price": 8,
+		"category": "Torture",
+		"defname": "WCE2_SlaveBrand"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 182,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallbin",
+		"price": 136,
+		"category": "Furniture",
+		"defname": "Bin_Small"
+	},
+	{
+		"abr": "smallcardboardbox",
+		"price": 120,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_CardboardBoxSmall"
+	},
+	{
+		"abr": "smallhaybale",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_HayBaleSmall"
+	},
+	{
+		"abr": "smallrug",
+		"price": 184,
+		"category": "Art",
+		"defname": "VFE_RugSmall"
+	},
+	{
+		"abr": "smallshieldgenerator",
+		"price": 3983,
+		"category": "Security",
+		"defname": "VFES_ShieldGenerator_Small"
+	},
+	{
+		"abr": "smallstatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFE_StatueSmall"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "smallwoodenbox",
+		"price": 151,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_BoxSmall"
+	},
+	{
+		"abr": "smallerlocker",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "JDSmaller_locker"
+	},
+	{
+		"abr": "smithingcabinet",
+		"price": 483,
+		"category": "Misc",
+		"defname": "VFE_SmithyCabinet"
+	},
+	{
+		"abr": "snowbeet",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "somalicat",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_CatSomali"
+	},
+	{
+		"abr": "spacercontainer",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_SpacerContainer"
+	},
+	{
+		"abr": "spacercontainerlarge",
+		"price": 775,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_SpacerContainerLarge"
+	},
+	{
+		"abr": "spacercontainerstack",
+		"price": 2108,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_SpacerContainerStack"
+	},
+	{
+		"abr": "spacerlamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Light_SpacerLamp"
+	},
+	{
+		"abr": "spacervitalsmonitor",
+		"price": 1450,
+		"category": "Misc",
+		"defname": "DZ_VitalsMonitor_Spacer"
+	},
+	{
+		"abr": "sphynxcat",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_CatSphynx"
+	},
+	{
+		"abr": "spine",
+		"price": 500,
+		"category": "Natural",
+		"defname": "QE_Organ_Spine"
+	},
+	{
+		"abr": "sprinkler",
+		"price": 182,
+		"category": "Misc",
+		"defname": "VFE_Sprinkler"
+	},
+	{
+		"abr": "squarechair",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "Seat_SquareChair"
+	},
+	{
+		"abr": "squash",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsquash"
+	},
+	{
+		"abr": "standinggaslamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasLamp"
+	},
+	{
+		"abr": "stirfry",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "stomach",
+		"price": 667,
+		"category": "Natural",
+		"defname": "QE_Organ_Stomach"
+	},
+	{
+		"abr": "storagebags",
+		"price": 271,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_ConcreteBags"
+	},
+	{
+		"abr": "sunelf",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Alien_SunElf"
+	},
+	{
+		"abr": "sunelfleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "O21_Leather_SunElf"
+	},
+	{
+		"abr": "sunelfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Alien_SunElf"
+	},
+	{
+		"abr": "syntheticmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_QESynthMeat"
+	},
+	{
+		"abr": "synthread",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Synthread"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "Table_1x1c"
+	},
+	{
+		"abr": "table(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "Table1x2c"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "Table2x2c"
+	},
+	{
+		"abr": "table(2x4)",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "Table2x4c"
+	},
+	{
+		"abr": "table(3x3)",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "Table3x3c"
+	},
+	{
+		"abr": "tablecandle",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "DZ_TableLamp_Neolithic"
+	},
+	{
+		"abr": "tablelamp",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "DZ_TableLamp_Industrial"
+	},
+	{
+		"abr": "tablelantern",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "DZ_TableLamp_Medieval"
+	},
+	{
+		"abr": "tailorcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_TailorCabinet"
+	},
+	{
+		"abr": "tallcabbinet",
+		"price": 267,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_TallCabinet"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "tapir",
+		"price": 458,
+		"category": "Animal",
+		"defname": "AEXP_Tapir"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "techprint(artificialmetabolism)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_ArtificialMetabolism"
+	},
+	{
+		"abr": "techprint(brainwiring)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_BrainWiring"
+	},
+	{
+		"abr": "techprint(cataphractarmor)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_CataphractArmor"
+	},
+	{
+		"abr": "techprint(circadianinfluence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_CircadianInfluence"
+	},
+	{
+		"abr": "techprint(compactweaponry)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_CompactWeaponry"
+	},
+	{
+		"abr": "techprint(fleshshaping)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_FleshShaping"
+	},
+	{
+		"abr": "techprint(healingfactors)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_HealingFactors"
+	},
+	{
+		"abr": "techprint(jumppacks)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_JumpPack"
+	},
+	{
+		"abr": "techprint(molecularanalysis)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_MolecularAnalysis"
+	},
+	{
+		"abr": "techprint(neuralcomputation)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_NeuralComputation"
+	},
+	{
+		"abr": "techprint(poisonsynthesis)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_VenomSynthesis"
+	},
+	{
+		"abr": "techprint(skinhardening)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_SkinHardening"
+	},
+	{
+		"abr": "techprint(specializedlimbs)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_SpecializedLimbs"
+	},
+	{
+		"abr": "techprofsubpersonacore",
+		"price": 1667,
+		"category": "Items",
+		"defname": "TechprofSubpersonaCore"
+	},
+	{
+		"abr": "teleportpyramid",
+		"price": 6667,
+		"category": "Special",
+		"defname": "O21_DNI_TeleportPyramid"
+	},
+	{
+		"abr": "telescope",
+		"price": 583,
+		"category": "Recreation",
+		"defname": "Telescope"
+	},
+	{
+		"abr": "therapycouch",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "Couch"
+	},
+	{
+		"abr": "thrumbo",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "Thrumbo"
+	},
+	{
+		"abr": "thrumbohorn",
+		"price": 1333,
+		"category": "Items",
+		"defname": "ThrumboHorn"
+	},
+	{
+		"abr": "thrumbofur",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_Thrumbo"
+	},
+	{
+		"abr": "tiefling",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Alien_Tiefling"
+	},
+	{
+		"abr": "tieflingleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "O21_Leather_Tiefling"
+	},
+	{
+		"abr": "tieflingmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Alien_Tiefling"
+	},
+	{
+		"abr": "tiger",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "AEXP_Tiger"
+	},
+	{
+		"abr": "tigerleather",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "AEXP_Leather_Tiger"
+	},
+	{
+		"abr": "timberwolf",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Wolf_Timber"
+	},
+	{
+		"abr": "tomatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawTomatoes"
+	},
+	{
+		"abr": "toolbox",
+		"price": 4092,
+		"category": "Furniture",
+		"defname": "JDSTool_Box"
+	},
+	{
+		"abr": "toolcabinet",
+		"price": 667,
+		"category": "Misc",
+		"defname": "ToolCabinet"
+	},
+	{
+		"abr": "tophat",
+		"price": 203,
+		"category": "Headgear",
+		"defname": "Apparel_HatTop"
+	},
+	{
+		"abr": "torchlamp",
+		"price": 41,
+		"category": "Misc",
+		"defname": "TorchLamp"
+	},
+	{
+		"abr": "tornadogenerator",
+		"price": 1333,
+		"category": "Utility",
+		"defname": "TornadoGenerator"
+	},
+	{
+		"abr": "tortoise",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Tortoise"
+	},
+	{
+		"abr": "tortoiseegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggTortoiseFertilized"
+	},
+	{
+		"abr": "toughskingland",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "ToughskinGland"
+	},
+	{
+		"abr": "tribalheaddress",
+		"price": 203,
+		"category": "Headgear",
+		"defname": "Apparel_TribalHeaddress"
+	},
+	{
+		"abr": "tribalwear",
+		"price": 211,
+		"category": "Apparel",
+		"defname": "Apparel_TribalA"
+	},
+	{
+		"abr": "triplerocketlauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_TripleRocket"
+	},
+	{
+		"abr": "tropicalbambooblowpipe",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "O21_TropicalBambooBlowpipe"
+	},
+	{
+		"abr": "tropicalboneblowpipe",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "O21_TropicalBoneBlowpipe"
+	},
+	{
+		"abr": "tropicalboneclub",
+		"price": 458,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalBoneclub"
+	},
+	{
+		"abr": "tropicalcrabclub",
+		"price": 458,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalCrabClub"
+	},
+	{
+		"abr": "tropicaldagger",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalDagger"
+	},
+	{
+		"abr": "tropicalshardclub",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalShardClub"
+	},
+	{
+		"abr": "tropicalsharkaxe",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalAxe"
+	},
+	{
+		"abr": "tropicalshiv",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalShiv"
+	},
+	{
+		"abr": "tropicalspear",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalSpearA"
+	},
+	{
+		"abr": "tropicalspear",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalSpearB"
+	},
+	{
+		"abr": "tropicalspear",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalSpearC"
+	},
+	{
+		"abr": "tropicalspear",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "O21_TropicalSpearD"
+	},
+	{
+		"abr": "t-shirt",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "Apparel_BasicShirt"
+	},
+	{
+		"abr": "tubetelevision",
+		"price": 525,
+		"category": "Recreation",
+		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "tuque",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "Apparel_Tuque"
+	},
+	{
+		"abr": "turkey",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Turkey"
+	},
+	{
+		"abr": "turkeyegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "EggTurkeyFertilized"
+	},
+	{
+		"abr": "ultrascreentelevision",
+		"price": 3075,
+		"category": "Recreation",
+		"defname": "UltrascreenTV"
+	},
+	{
+		"abr": "unstablepowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "UnstablePowerCell"
+	},
+	{
+		"abr": "uranium",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Uranium"
+	},
+	{
+		"abr": "urn",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "Urn"
+	},
+	{
+		"abr": "vanometricpowercell",
+		"price": 2000,
+		"category": "Special",
+		"defname": "VanometricPowerCell"
+	},
+	{
+		"abr": "vendingmachine",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_VendingMachine"
+	},
+	{
+		"abr": "vendingmachinea",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "JDSVending_Machine"
+	},
+	{
+		"abr": "vendingmachineb",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "JDSVending_Machine_two"
+	},
+	{
+		"abr": "venomfangs",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomFangs"
+	},
+	{
+		"abr": "venomtalon",
+		"price": 592,
+		"category": "Prosthetic",
+		"defname": "VenomTalon"
+	},
+	{
+		"abr": "vent",
+		"price": 102,
+		"category": "Misc",
+		"defname": "Vent"
+	},
+	{
+		"abr": "vitalscentre",
+		"price": 1125,
+		"category": "Misc",
+		"defname": "Facility_VitalsCentre"
+	},
+	{
+		"abr": "vitalsmonitor",
+		"price": 358,
+		"category": "Misc",
+		"defname": "VitalsMonitor"
+	},
+	{
+		"abr": "wake-up",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "WakeUp"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "walllight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallSunLight"
+	},
+	{
+		"abr": "walledcooler",
+		"price": 450,
+		"category": "Misc",
+		"defname": "DZ_Cooler_Industrial"
+	},
+	{
+		"abr": "walledspacervitalsmonitor",
+		"price": 1450,
+		"category": "Misc",
+		"defname": "DZ_WalledVitalsMonitor_Spacer"
+	},
+	{
+		"abr": "walledvent",
+		"price": 102,
+		"category": "Misc",
+		"defname": "DZ_Vent_Industrial"
+	},
+	{
+		"abr": "walledvitalsmonitor",
+		"price": 358,
+		"category": "Misc",
+		"defname": "DZ_WalledVitalsMonitor_Industrial"
+	},
+	{
+		"abr": "walrus",
+		"price": 917,
+		"category": "Animal",
+		"defname": "AEXP_Walrus"
+	},
+	{
+		"abr": "walrustusk",
+		"price": 133,
+		"category": "Items",
+		"defname": "AEXP_WalrusTusk"
+	},
+	{
+		"abr": "warmask",
+		"price": 101,
+		"category": "Headgear",
+		"defname": "Apparel_WarMask"
+	},
+	{
+		"abr": "warveil",
+		"price": 75,
+		"category": "Headgear",
+		"defname": "Apparel_WarVeil"
+	},
+	{
+		"abr": "wardrobe",
+		"price": 285,
+		"category": "Furniture",
+		"defname": "Table_Wardrobe"
+	},
+	{
+		"abr": "warehouseshelf",
+		"price": 492,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WarehouseShelfEmpty"
+	},
+	{
+		"abr": "warehouseshelfwithboxes",
+		"price": 525,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WarehouseShelfBoxes"
+	},
+	{
+		"abr": "warforged",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "O21_Alien_Warforged"
+	},
+	{
+		"abr": "warg",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Warg"
+	},
+	{
+		"abr": "warhammer",
+		"price": 608,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Warhammer"
+	},
+	{
+		"abr": "watermelon",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawwatermelon"
+	},
+	{
+		"abr": "weaponrack",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Shelf_WeaponRack"
+	},
+	{
+		"abr": "weaponrackempty",
+		"price": 201,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WeaponRackEmpty"
+	},
+	{
+		"abr": "weaponrackspears",
+		"price": 201,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WeaponRackSpears"
+	},
+	{
+		"abr": "weaponrackswords",
+		"price": 201,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WeaponRackSwords"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "welshterrier",
+		"price": 417,
+		"category": "Animal",
+		"defname": "AEXP_WelshTerrier"
+	},
+	{
+		"abr": "wheelbarrow",
+		"price": 54,
+		"category": "Furniture",
+		"defname": "JDSwheelbarrow"
+	},
+	{
+		"abr": "wildboar",
+		"price": 333,
+		"category": "Animal",
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "wildgoose",
+		"price": 125,
+		"category": "Animal",
+		"defname": "AEXP_WildGoose"
+	},
+	{
+		"abr": "wildgooseegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggWildGooseFertilized"
+	},
+	{
+		"abr": "wildgooseegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AEXP_EggWildGooseUnfertilized"
+	},
+	{
+		"abr": "windturbine",
+		"price": 442,
+		"category": "Misc",
+		"defname": "WindTurbine"
+	},
+	{
+		"abr": "wolfskin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Wolf"
+	},
+	{
+		"abr": "wood",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "woodelf",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Alien_WoodElf"
+	},
+	{
+		"abr": "woodelfleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "O21_Leather_WoodElf"
+	},
+	{
+		"abr": "woodelfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Alien_WoodElf"
+	},
+	{
+		"abr": "woodenchest",
+		"price": 181,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WoodenChest"
+	},
+	{
+		"abr": "woodenlogs",
+		"price": 141,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WoodenLogs"
+	},
+	{
+		"abr": "woodenwagon",
+		"price": 221,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_WoodenWagon"
+	},
+	{
+		"abr": "wood-firedgenerator",
+		"price": 442,
+		"category": "Misc",
+		"defname": "WoodFiredGenerator"
+	},
+	{
+		"abr": "woolcloth",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "WoolCloth"
+	},
+	{
+		"abr": "woolloom",
+		"price": 148,
+		"category": "Production",
+		"defname": "BenchWoolLoom"
+	},
+	{
+		"abr": "wort",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "Wort"
+	},
+	{
+		"abr": "yak",
+		"price": 533,
+		"category": "Animal",
+		"defname": "Yak"
+	},
+	{
+		"abr": "yayo",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Yayo"
+	},
+	{
+		"abr": "yellowbarrel",
+		"price": 148,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_BarrelYellow"
+	},
+	{
+		"abr": "yellowcargocontainer",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "DZ_VFEPD_ContainerYellow"
+	},
+	{
+		"abr": "yorkshireterrier",
+		"price": 167,
+		"category": "Animal",
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "zoraimask(a)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskA"
+	},
+	{
+		"abr": "zoraimask(b)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskB"
+	},
+	{
+		"abr": "zoraimask(c)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskC"
+	},
+	{
+		"abr": "zoraimask(d)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskD"
+	},
+	{
+		"abr": "0symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolZero"
+	},
+	{
+		"abr": "1symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolOne"
+	},
+	{
+		"abr": "2symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolTwo"
+	},
+	{
+		"abr": "3symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolThree"
+	},
+	{
+		"abr": "4symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolFour"
+	},
+	{
+		"abr": "5symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolFive"
+	},
+	{
+		"abr": "6symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolSix"
+	},
+	{
+		"abr": "7symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolSeven"
+	},
+	{
+		"abr": "8symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolEight"
+	},
+	{
+		"abr": "9symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolNine"
+	},
+	{
+		"abr": "asymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolA"
+	},
+	{
+		"abr": "advancedgeothermalgenerator",
+		"price": 3058,
+		"category": "",
+		"defname": "VPE_AdvancedGeothermalGenerator"
+	},
+	{
+		"abr": "advancedrotor",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_AdvancedRotor"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": 1817,
+		"category": "",
+		"defname": "VFE_AdvancedWatermillGenerator"
+	},
+	{
+		"abr": "agarilux",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Agarilux"
+	},
+	{
+		"abr": "agave",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Agave"
+	},
+	{
+		"abr": "airconditioningunit",
+		"price": 900,
+		"category": "",
+		"defname": "AirConditioningUnit"
+	},
+	{
+		"abr": "alocasia",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Alocasia"
+	},
+	{
+		"abr": "amnioticfluid",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthAmnioticFluid"
+	},
+	{
+		"abr": "animalfilth",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthAnimalFilth"
+	},
+	{
+		"abr": "anvil",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Anvil"
+	},
+	{
+		"abr": "armorydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordArmory"
+	},
+	{
+		"abr": "arrowcage",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_ArrowCage"
+	},
+	{
+		"abr": "arrowlongsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalArrowLong"
+	},
+	{
+		"abr": "arrowshortsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalArrowShort"
+	},
+	{
+		"abr": "arrowwidesymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalArrowWide"
+	},
+	{
+		"abr": "artificialecosystem",
+		"price": 1642,
+		"category": "",
+		"defname": "VFE_Ecosystem"
+	},
+	{
+		"abr": "ash",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthAsh"
+	},
+	{
+		"abr": "bsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolB"
+	},
+	{
+		"abr": "backuppowercontrolbox",
+		"price": 179,
+		"category": "",
+		"defname": "BackupPower_Attachment"
+	},
+	{
+		"abr": "ballista",
+		"price": 650,
+		"category": "",
+		"defname": "VFES_Turret_Ballista"
+	},
+	{
+		"abr": "bamboocampfire",
+		"price": 45,
+		"category": "",
+		"defname": "VG_Campfire"
+	},
+	{
+		"abr": "bambootorchlamp",
+		"price": 44,
+		"category": "",
+		"defname": "VG_TorchLamp"
+	},
+	{
+		"abr": "bambootree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BambooTree"
+	},
+	{
+		"abr": "barbedwire",
+		"price": 35,
+		"category": "",
+		"defname": "VFES_BarbedWire"
+	},
+	{
+		"abr": "barnstall",
+		"price": 254,
+		"category": "",
+		"defname": "BarnStall"
+	},
+	{
+		"abr": "barnstalllarge",
+		"price": 475,
+		"category": "",
+		"defname": "BarnStallLarge"
+	},
+	{
+		"abr": "barracksdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordBarracks"
+	},
+	{
+		"abr": "barrier",
+		"price": 39,
+		"category": "",
+		"defname": "VFES_Barrier"
+	},
+	{
+		"abr": "basedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallBase"
+	},
+	{
+		"abr": "battery",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Battery"
+	},
+	{
+		"abr": "baydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallBay"
+	},
+	{
+		"abr": "beaverdam",
+		"price": 83,
+		"category": "",
+		"defname": "AEXP_BeaverDam"
+	},
+	{
+		"abr": "berrybush",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_BerryBush"
+	},
+	{
+		"abr": "binbag",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_BinBag"
+	},
+	{
+		"abr": "birchtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BirchTree"
+	},
+	{
+		"abr": "blackdeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryBlack"
+	},
+	{
+		"abr": "blackfamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyBlack"
+	},
+	{
+		"abr": "blackgunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossBlack"
+	},
+	{
+		"abr": "blackpickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupBlack"
+	},
+	{
+		"abr": "blackskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipBlack"
+	},
+	{
+		"abr": "blackvintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageBlack"
+	},
+	{
+		"abr": "blockdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordBlock"
+	},
+	{
+		"abr": "blood",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthBlood"
+	},
+	{
+		"abr": "bluedeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryBlue"
+	},
+	{
+		"abr": "bluefamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyBlue"
+	},
+	{
+		"abr": "bluegunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossBlue"
+	},
+	{
+		"abr": "bluepickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupBlue"
+	},
+	{
+		"abr": "blueskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipBlue"
+	},
+	{
+		"abr": "bluesterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileBlue"
+	},
+	{
+		"abr": "bluevintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageBlue"
+	},
+	{
+		"abr": "bonewall",
+		"price": 26,
+		"category": "",
+		"defname": "BoneWall"
+	},
+	{
+		"abr": "boxdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallBox"
+	},
+	{
+		"abr": "brambles",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Brambles"
+	},
+	{
+		"abr": "brewingbarrel",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BrewingBarrel"
+	},
+	{
+		"abr": "brownsterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileBrown"
+	},
+	{
+		"abr": "bryolux",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Bryolux"
+	},
+	{
+		"abr": "bugblood",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthBugBlood"
+	},
+	{
+		"abr": "burnedtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BurnedTree"
+	},
+	{
+		"abr": "bush",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Bush"
+	},
+	{
+		"abr": "csymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolC"
+	},
+	{
+		"abr": "cafeteriadecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordCafeteria"
+	},
+	{
+		"abr": "cageplatform",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_CagePlatform"
+	},
+	{
+		"abr": "cargodecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordCargo"
+	},
+	{
+		"abr": "catapult",
+		"price": 1192,
+		"category": "",
+		"defname": "VFES_Turret_Catapult"
+	},
+	{
+		"abr": "cavalryspikes",
+		"price": 12,
+		"category": "",
+		"defname": "VFES_CavalrySpikes"
+	},
+	{
+		"abr": "cecropiatree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_CecropiaTree"
+	},
+	{
+		"abr": "celldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallCell"
+	},
+	{
+		"abr": "chainlinkfence",
+		"price": 17,
+		"category": "",
+		"defname": "ChainFence"
+	},
+	{
+		"abr": "chainlinkfencegate",
+		"price": 34,
+		"category": "",
+		"defname": "ChainFenceGate"
+	},
+	{
+		"abr": "chainlinkfencegate",
+		"price": 34,
+		"category": "",
+		"defname": "ChainFenceGateB"
+	},
+	{
+		"abr": "chamberdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordChamber"
+	},
+	{
+		"abr": "chargecomplex",
+		"price": 1692,
+		"category": "",
+		"defname": "VFES_Turret_ChargeComplex"
+	},
+	{
+		"abr": "chargerailgun",
+		"price": 4658,
+		"category": "",
+		"defname": "VFES_Turret_ChargeRailgunTurret"
+	},
+	{
+		"abr": "chemfuelpuddle",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthChemfuel"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 542,
+		"category": "",
+		"defname": "VPE_ChemfuelPump"
+	},
+	{
+		"abr": "chokevine",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_Chokevine"
+	},
+	{
+		"abr": "cleardecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallClear"
+	},
+	{
+		"abr": "climatedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordClimate"
+	},
+	{
+		"abr": "clivia",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Clivia"
+	},
+	{
+		"abr": "coalburner",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_CoalBurner"
+	},
+	{
+		"abr": "commanddecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordCommand"
+	},
+	{
+		"abr": "cone",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_Cone"
+	},
+	{
+		"abr": "controldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordControl"
+	},
+	{
+		"abr": "cooker",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Cooker"
+	},
+	{
+		"abr": "cookingappliances",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_CookingAppliances"
+	},
+	{
+		"abr": "cornplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Corn"
+	},
+	{
+		"abr": "corpsebile",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthCorpseBile"
+	},
+	{
+		"abr": "cottonplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Cotton"
+	},
+	{
+		"abr": "creamsterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileCream"
+	},
+	{
+		"abr": "cuttingboard",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_CuttingBoard"
+	},
+	{
+		"abr": "cypresstree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_CypressTree"
+	},
+	{
+		"abr": "dsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolD"
+	},
+	{
+		"abr": "darksterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileDark"
+	},
+	{
+		"abr": "dataconsole",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_DataConsole"
+	},
+	{
+		"abr": "dataconveyor",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_DataConveyor"
+	},
+	{
+		"abr": "daylily",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Daylily"
+	},
+	{
+		"abr": "decallinedouble",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineDouble"
+	},
+	{
+		"abr": "decallinedoubleinnercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineDoubleCornerInner"
+	},
+	{
+		"abr": "decallinedoubleoutercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineDoubleCornerOuter"
+	},
+	{
+		"abr": "decallinethin",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineThin"
+	},
+	{
+		"abr": "decallinethininnercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineThinCornerInner"
+	},
+	{
+		"abr": "decallinethinoutercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineThinCornerOuter"
+	},
+	{
+		"abr": "deployablebarrier",
+		"price": 96,
+		"category": "",
+		"defname": "VFES_DeployableBarrier"
+	},
+	{
+		"abr": "devilstrand",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Devilstrand"
+	},
+	{
+		"abr": "dinnerset",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_DinnerSet"
+	},
+	{
+		"abr": "dirt",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthDirt"
+	},
+	{
+		"abr": "displayscreen",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_DisplayScreen"
+	},
+	{
+		"abr": "displaytable",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_DisplayTable"
+	},
+	{
+		"abr": "dockdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallDock"
+	},
+	{
+		"abr": "doubleautocannon",
+		"price": 3475,
+		"category": "",
+		"defname": "VFES_Turret_AutocannonDouble"
+	},
+	{
+		"abr": "dragotree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_DragoTree"
+	},
+	{
+		"abr": "esymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolE"
+	},
+	{
+		"abr": "electricalcabinet",
+		"price": 19,
+		"category": "",
+		"defname": "VFEPD_ElectricalCabinet"
+	},
+	{
+		"abr": "empcannon",
+		"price": 4225,
+		"category": "",
+		"defname": "VFES_Turret_EMPTurret"
+	},
+	{
+		"abr": "emptybucket",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_BucketEmpty"
+	},
+	{
+		"abr": "emptyfoodboxes",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_FoodBox"
+	},
+	{
+		"abr": "engineerdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordEngineer"
+	},
+	{
+		"abr": "exhaust",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Exhaust"
+	},
+	{
+		"abr": "fsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolF"
+	},
+	{
+		"abr": "farmingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordFarming"
+	},
+	{
+		"abr": "fence",
+		"price": 7,
+		"category": "",
+		"defname": "WoodFence"
+	},
+	{
+		"abr": "fencegate",
+		"price": 18,
+		"category": "",
+		"defname": "WoodFenceGate"
+	},
+	{
+		"abr": "fencegate",
+		"price": 18,
+		"category": "",
+		"defname": "WoodFenceGateB"
+	},
+	{
+		"abr": "firefoam",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthFireFoam"
+	},
+	{
+		"abr": "foodtrolley",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_FoodTrolley"
+	},
+	{
+		"abr": "forklift",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarForklift"
+	},
+	{
+		"abr": "freezerdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordFreezer"
+	},
+	{
+		"abr": "fridgedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordFridge"
+	},
+	{
+		"abr": "gsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolG"
+	},
+	{
+		"abr": "gascooler",
+		"price": 458,
+		"category": "",
+		"defname": "VPE_GasCooler"
+	},
+	{
+		"abr": "gasdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallGas"
+	},
+	{
+		"abr": "gaspipe",
+		"price": 3,
+		"category": "",
+		"defname": "VPE_GasPipe"
+	},
+	{
+		"abr": "gaspipevalve",
+		"price": 102,
+		"category": "",
+		"defname": "VPE_GasPipeValve"
+	},
+	{
+		"abr": "gasstorageunit",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_GasStorageUnit"
+	},
+	{
+		"abr": "gastank",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_GasTank"
+	},
+	{
+		"abr": "gas-operatedpodlauncher",
+		"price": 230,
+		"category": "",
+		"defname": "VPE_GasPodLauncher"
+	},
+	{
+		"abr": "generator",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_Generator"
+	},
+	{
+		"abr": "generatorunit",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_GeneratorUnitLarge"
+	},
+	{
+		"abr": "giantrafflesia",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Rafflesia"
+	},
+	{
+		"abr": "glowstool",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Glowstool"
+	},
+	{
+		"abr": "goldsterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileGold"
+	},
+	{
+		"abr": "greensterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileGreen"
+	},
+	{
+		"abr": "hsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolH"
+	},
+	{
+		"abr": "halldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallHall"
+	},
+	{
+		"abr": "hangardecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordHangar"
+	},
+	{
+		"abr": "haygrass",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Haygrass"
+	},
+	{
+		"abr": "healroot",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Healroot"
+	},
+	{
+		"abr": "hedge",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_Hedge"
+	},
+	{
+		"abr": "helixiengascrematorium",
+		"price": 700,
+		"category": "",
+		"defname": "VPE_GasCrematorium"
+	},
+	{
+		"abr": "helixiengasvent",
+		"price": 97,
+		"category": "",
+		"defname": "VPE_GasVent"
+	},
+	{
+		"abr": "helixienpump",
+		"price": 542,
+		"category": "",
+		"defname": "VPE_HelixienPump"
+	},
+	{
+		"abr": "highsecurityfence",
+		"price": 67,
+		"category": "",
+		"defname": "TechFence"
+	},
+	{
+		"abr": "highsecurityfencegate",
+		"price": 118,
+		"category": "",
+		"defname": "TechFenceGate"
+	},
+	{
+		"abr": "highsecurityfencegate",
+		"price": 118,
+		"category": "",
+		"defname": "TechFenceGateB"
+	},
+	{
+		"abr": "hmgcomplex",
+		"price": 750,
+		"category": "",
+		"defname": "VFES_Turret_HMGComplex"
+	},
+	{
+		"abr": "hologram",
+		"price": 144,
+		"category": "",
+		"defname": "VFE_HologramOn"
+	},
+	{
+		"abr": "hopplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Hops"
+	},
+	{
+		"abr": "hospitaldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordHospital"
+	},
+	{
+		"abr": "isymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolI"
+	},
+	{
+		"abr": "industrialgenerator",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_IndustrialGenerator"
+	},
+	{
+		"abr": "jsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolJ"
+	},
+	{
+		"abr": "ksymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolK"
+	},
+	{
+		"abr": "keepdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallKeep"
+	},
+	{
+		"abr": "killdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordKill"
+	},
+	{
+		"abr": "kitchendecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordKitchen"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_KitchenSink"
+	},
+	{
+		"abr": "kitchensurface",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_KitchenSurface"
+	},
+	{
+		"abr": "kitchensurfaceempty",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_KitchenSurfaceEmpty"
+	},
+	{
+		"abr": "knives",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_Knives"
+	},
+	{
+		"abr": "lsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolL"
+	},
+	{
+		"abr": "labdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallLab"
+	},
+	{
+		"abr": "landingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordLanding"
+	},
+	{
+		"abr": "large0symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolZero"
+	},
+	{
+		"abr": "large1symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolOne"
+	},
+	{
+		"abr": "large2symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolTwo"
+	},
+	{
+		"abr": "large3symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolThree"
+	},
+	{
+		"abr": "large4symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolFour"
+	},
+	{
+		"abr": "large5symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolFive"
+	},
+	{
+		"abr": "large6symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolSix"
+	},
+	{
+		"abr": "large7symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolSeven"
+	},
+	{
+		"abr": "gaswalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallLight"
+	},
+	{
+		"abr": "large8symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolEight"
+	},
+	{
+		"abr": "large9symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolNine"
+	},
+	{
+		"abr": "largeasymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolA"
+	},
+	{
+		"abr": "largearmorydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordArmory"
+	},
+	{
+		"abr": "largearrowlongsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalArrowLong"
+	},
+	{
+		"abr": "largearrowshortsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalArrowShort"
+	},
+	{
+		"abr": "largearrowwidesymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalArrowWide"
+	},
+	{
+		"abr": "largebsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolB"
+	},
+	{
+		"abr": "largebarracksdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordBarracks"
+	},
+	{
+		"abr": "largebasedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallBase"
+	},
+	{
+		"abr": "largebaydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallBay"
+	},
+	{
+		"abr": "largeblockdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordBlock"
+	},
+	{
+		"abr": "largeboxdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallBox"
+	},
+	{
+		"abr": "largecsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolC"
+	},
+	{
+		"abr": "largecafeteriadecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordCafeteria"
+	},
+	{
+		"abr": "largecargodecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordCargo"
+	},
+	{
+		"abr": "largecelldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallCell"
+	},
+	{
+		"abr": "largechamberdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordChamber"
+	},
+	{
+		"abr": "largechemfueltank",
+		"price": 180,
+		"category": "",
+		"defname": "VFEPD_ChemfuelTank"
+	},
+	{
+		"abr": "largecleardecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallClear"
+	},
+	{
+		"abr": "largeclimatedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordClimate"
+	},
+	{
+		"abr": "largecommanddecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordCommand"
+	},
+	{
+		"abr": "largecontroldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordControl"
+	},
+	{
+		"abr": "largedsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolD"
+	},
+	{
+		"abr": "largedecallinedouble",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineDouble"
+	},
+	{
+		"abr": "largedecallinedoubleinnercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineDoubleCornerInner"
+	},
+	{
+		"abr": "largedecallinedoubleoutercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineDoubleCornerOuter"
+	},
+	{
+		"abr": "largedecallinethin",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineThin"
+	},
+	{
+		"abr": "largedecallinethininnercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineThinCornerInner"
+	},
+	{
+		"abr": "largedecallinethinoutercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineThinCornerOuter"
+	},
+	{
+		"abr": "largedockdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallDock"
+	},
+	{
+		"abr": "largeesymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolE"
+	},
+	{
+		"abr": "largeengineerdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordEngineer"
+	},
+	{
+		"abr": "largefsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolF"
+	},
+	{
+		"abr": "largefarmingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordFarming"
+	},
+	{
+		"abr": "largefreezerdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordFreezer"
+	},
+	{
+		"abr": "largefridgedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordFridge"
+	},
+	{
+		"abr": "largegsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolG"
+	},
+	{
+		"abr": "largegasdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallGas"
+	},
+	{
+		"abr": "largehsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolH"
+	},
+	{
+		"abr": "largehalldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallHall"
+	},
+	{
+		"abr": "largehangardecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordHangar"
+	},
+	{
+		"abr": "largehospitaldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordHospital"
+	},
+	{
+		"abr": "largeisymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolI"
+	},
+	{
+		"abr": "largejsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolJ"
+	},
+	{
+		"abr": "largeksymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolK"
+	},
+	{
+		"abr": "largekeepdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallKeep"
+	},
+	{
+		"abr": "largekilldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordKill"
+	},
+	{
+		"abr": "largekitchendecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordKitchen"
+	},
+	{
+		"abr": "largelsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolL"
+	},
+	{
+		"abr": "largelabdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallLab"
+	},
+	{
+		"abr": "largelandingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordLanding"
+	},
+	{
+		"abr": "largeliquidtank",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_LiquidTank"
+	},
+	{
+		"abr": "largemsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolM"
+	},
+	{
+		"abr": "largemedicaldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMedical"
+	},
+	{
+		"abr": "largemessdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMess"
+	},
+	{
+		"abr": "largemorguedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMorgue"
+	},
+	{
+		"abr": "largemortardecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMortar"
+	},
+	{
+		"abr": "largensymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolN"
+	},
+	{
+		"abr": "largeosymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolO"
+	},
+	{
+		"abr": "largepsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolP"
+	},
+	{
+		"abr": "largepaddecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallPad"
+	},
+	{
+		"abr": "largeplaydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordPlay"
+	},
+	{
+		"abr": "largeprisondecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordPrison"
+	},
+	{
+		"abr": "largersymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolR"
+	},
+	{
+		"abr": "largereactordecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordReactor"
+	},
+	{
+		"abr": "largerecreationdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordRecreation"
+	},
+	{
+		"abr": "largerefinerydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordRefinery"
+	},
+	{
+		"abr": "largerelaxdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordRelax"
+	},
+	{
+		"abr": "largeresearchdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordResearch"
+	},
+	{
+		"abr": "largeroomdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallRoom"
+	},
+	{
+		"abr": "largessymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolS"
+	},
+	{
+		"abr": "largesecuritydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSecurity"
+	},
+	{
+		"abr": "largeshieldgenerator",
+		"price": 7458,
+		"category": "",
+		"defname": "VFES_ShieldGenerator_Large"
+	},
+	{
+		"abr": "largeshippingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordShipping"
+	},
+	{
+		"abr": "largesleepingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSleeping"
+	},
+	{
+		"abr": "largesmeltingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmelting"
+	},
+	{
+		"abr": "largesteeltank",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_SteelTank"
+	},
+	{
+		"abr": "largestoragedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordStorage"
+	},
+	{
+		"abr": "largetsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolT"
+	},
+	{
+		"abr": "largeusymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolU"
+	},
+	{
+		"abr": "largewsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolW"
+	},
+	{
+		"abr": "largewarningdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordWarning"
+	},
+	{
+		"abr": "largewingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallWing"
+	},
+	{
+		"abr": "largeworkshopdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordWorkshop"
+	},
+	{
+		"abr": "largexsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolX"
+	},
+	{
+		"abr": "largeysymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolY"
+	},
+	{
+		"abr": "largezsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolZ"
+	},
+	{
+		"abr": "largezonedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallZone"
+	},
+	{
+		"abr": "longcommandconsole",
+		"price": 48,
+		"category": "",
+		"defname": "VFEPD_LongCommandConsole"
+	},
+	{
+		"abr": "longgrass",
+		"price": 2,
+		"category": "",
+		"defname": "VFEPD_GrassLong"
+	},
+	{
+		"abr": "msymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolM"
+	},
+	{
+		"abr": "machinebits",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthMachineBits"
+	},
+	{
+		"abr": "mapletree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_MapleTree"
+	},
+	{
+		"abr": "medicaldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMedical"
+	},
+	{
+		"abr": "messdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMess"
+	},
+	{
+		"abr": "microwave",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Microwave"
+	},
+	{
+		"abr": "miniquarry",
+		"price": 260,
+		"category": "",
+		"defname": "QRY_MiniQuarry"
+	},
+	{
+		"abr": "mopbucket",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_MopBucket"
+	},
+	{
+		"abr": "morguedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMorgue"
+	},
+	{
+		"abr": "mortardecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMortar"
+	},
+	{
+		"abr": "nsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolN"
+	},
+	{
+		"abr": "nuclearreactor",
+		"price": 4475,
+		"category": "",
+		"defname": "VPE_NuclearGenerator"
+	},
+	{
+		"abr": "osymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolO"
+	},
+	{
+		"abr": "oaktree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_OakTree"
+	},
+	{
+		"abr": "oven",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_Oven"
+	},
+	{
+		"abr": "psymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolP"
+	},
+	{
+		"abr": "paddecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallPad"
+	},
+	{
+		"abr": "palmtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_PalmTree"
+	},
+	{
+		"abr": "personalconsole",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_PersonalConsole"
+	},
+	{
+		"abr": "pincushioncactus",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_PincushionCactus"
+	},
+	{
+		"abr": "pinetree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_PineTree"
+	},
+	{
+		"abr": "planningscreen",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_PlanningScreen"
+	},
+	{
+		"abr": "planningtable",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_PlanningTable"
+	},
+	{
+		"abr": "planterbox",
+		"price": 112,
+		"category": "",
+		"defname": "VFE_PlanterBox"
+	},
+	{
+		"abr": "plasteelatm",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelATM"
+	},
+	{
+		"abr": "plasteelcupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboard"
+	},
+	{
+		"abr": "plasteelcupboardwithplates",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboardPlates"
+	},
+	{
+		"abr": "plasteeldivider",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelDivider"
+	},
+	{
+		"abr": "plasteeldoublecupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboardDouble"
+	},
+	{
+		"abr": "plasteelmirror",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelMirror"
+	},
+	{
+		"abr": "plasteelnarrowcupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboardNarrow"
+	},
+	{
+		"abr": "plasteelplankdivider",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelPlankDivider"
+	},
+	{
+		"abr": "plasteelshortcupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelShortCupboard"
+	},
+	{
+		"abr": "plasteelshortcupboardwithplates",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelShortCupboardPlates"
+	},
+	{
+		"abr": "playdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordPlay"
+	},
+	{
+		"abr": "poplartree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_PoplarTree"
+	},
+	{
+		"abr": "potatoplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Potato"
+	},
+	{
+		"abr": "powerconverter",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_PowerConverter"
+	},
+	{
+		"abr": "powerpole",
+		"price": 11,
+		"category": "",
+		"defname": "VFEPD_PowerPole"
+	},
+	{
+		"abr": "prisondecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordPrison"
+	},
+	{
+		"abr": "psychoidplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Psychoid"
+	},
+	{
+		"abr": "quarry",
+		"price": 617,
+		"category": "",
+		"defname": "QRY_Quarry"
+	},
+	{
+		"abr": "quarryplatform",
+		"price": 168,
+		"category": "",
+		"defname": "QRY_Platform"
+	},
+	{
+		"abr": "rsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolR"
+	},
+	{
+		"abr": "reactordecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordReactor"
+	},
+	{
+		"abr": "recreationdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordRecreation"
+	},
+	{
+		"abr": "reddeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryRed"
+	},
+	{
+		"abr": "redfamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyRed"
+	},
+	{
+		"abr": "redgunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossRed"
+	},
+	{
+		"abr": "redpickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupRed"
+	},
+	{
+		"abr": "redskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipRed"
+	},
+	{
+		"abr": "redsterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileRed"
+	},
+	{
+		"abr": "redvintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageRed"
+	},
+	{
+		"abr": "refinerydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordRefinery"
+	},
+	{
+		"abr": "reinforcedwall",
+		"price": 52,
+		"category": "",
+		"defname": "Reinforced_WallAT"
+	},
+	{
+		"abr": "relaxdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordRelax"
+	},
+	{
+		"abr": "researchcounter",
+		"price": 86,
+		"category": "",
+		"defname": "Facility_ResearchCounter"
+	},
+	{
+		"abr": "researchdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordResearch"
+	},
+	{
+		"abr": "riceplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Rice"
+	},
+	{
+		"abr": "rockrubble",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthRubbleRock"
+	},
+	{
+		"abr": "rocketturret",
+		"price": 3058,
+		"category": "",
+		"defname": "VFES_Turret_TriRocket"
+	},
+	{
+		"abr": "roomdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallRoom"
+	},
+	{
+		"abr": "rose",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Rose"
+	},
+	{
+		"abr": "rotor",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Rotor"
+	},
+	{
+		"abr": "ssymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolS"
+	},
+	{
+		"abr": "saguarocactus",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_SaguaroCactus"
+	},
+	{
+		"abr": "sand",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthSand"
+	},
+	{
+		"abr": "scatteredsandbags",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthRubbleSandbags"
+	},
+	{
+		"abr": "scatteredslag",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthRubbleSlag"
+	},
+	{
+		"abr": "securitybarrier",
+		"price": 40,
+		"category": "",
+		"defname": "SecurityBarrier"
+	},
+	{
+		"abr": "securitydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSecurity"
+	},
+	{
+		"abr": "sensorplatform",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SensorPlatform"
+	},
+	{
+		"abr": "serverrack",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_ServerRack"
+	},
+	{
+		"abr": "shippingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordShipping"
+	},
+	{
+		"abr": "shortgrass",
+		"price": 2,
+		"category": "",
+		"defname": "VFEPD_GrassShort"
+	},
+	{
+		"abr": "shortwall",
+		"price": 14,
+		"category": "",
+		"defname": "VFES_ShortWall"
+	},
+	{
+		"abr": "silveratm",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverATM"
+	},
+	{
+		"abr": "silvercupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboard"
+	},
+	{
+		"abr": "silvercupboardwithplates",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboardPlates"
+	},
+	{
+		"abr": "silverdeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliverySilver"
+	},
+	{
+		"abr": "silverdivider",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverDivider"
+	},
+	{
+		"abr": "silverdoublecupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboardDouble"
+	},
+	{
+		"abr": "silverfamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilySilver"
+	},
+	{
+		"abr": "silvergunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossSilver"
+	},
+	{
+		"abr": "silvermirror",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverMirror"
+	},
+	{
+		"abr": "silvernarrowcupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboardNarrow"
+	},
+	{
+		"abr": "silverpickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupSilver"
+	},
+	{
+		"abr": "silverplankdivider",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverPlankDivider"
+	},
+	{
+		"abr": "silvershortcupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverShortCupboard"
+	},
+	{
+		"abr": "silvershortcupboardwithplates",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverShortCupboardPlates"
+	},
+	{
+		"abr": "silverskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipSilver"
+	},
+	{
+		"abr": "silvervintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageSilver"
+	},
+	{
+		"abr": "sleepingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSleeping"
+	},
+	{
+		"abr": "slime",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthSlime"
+	},
+	{
+		"abr": "smallexhaust",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SmallExhaust"
+	},
+	{
+		"abr": "smallgeneratorunit",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_GeneratorUnitSmall"
+	},
+	{
+		"abr": "smeltingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmelting"
+	},
+	{
+		"abr": "smokeleafplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Smokeleaf"
+	},
+	{
+		"abr": "spices",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_Spices"
+	},
+	{
+		"abr": "stackofpipes",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Pipes"
+	},
+	{
+		"abr": "stackofplanks",
+		"price": 11,
+		"category": "",
+		"defname": "VFEPD_Planks"
+	},
+	{
+		"abr": "steelatm",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelATM"
+	},
+	{
+		"abr": "steelcupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboard"
+	},
+	{
+		"abr": "steelcupboardwithplates",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboardPlates"
+	},
+	{
+		"abr": "steeldivider",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelDivider"
+	},
+	{
+		"abr": "steeldoublecupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboardDouble"
+	},
+	{
+		"abr": "steelmirror",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelMirror"
+	},
+	{
+		"abr": "steelnarrowcupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboardNarrow"
+	},
+	{
+		"abr": "steelplankdivider",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelPlankDivider"
+	},
+	{
+		"abr": "steelshortcupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelShortCupboard"
+	},
+	{
+		"abr": "steelshortcupboardwithplates",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelShortCupboardPlates"
+	},
+	{
+		"abr": "stonecampfire",
+		"price": 128,
+		"category": "",
+		"defname": "Stone_Campfire"
+	},
+	{
+		"abr": "storagedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordStorage"
+	},
+	{
+		"abr": "strawberryplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Strawberry"
+	},
+	{
+		"abr": "subterraneangaspipe",
+		"price": 17,
+		"category": "",
+		"defname": "VPE_GasPipeSub"
+	},
+	{
+		"abr": "superpod",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_Superpod"
+	},
+	{
+		"abr": "switchpanel",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SwitchPanel"
+	},
+	{
+		"abr": "tsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolT"
+	},
+	{
+		"abr": "tanningrack",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_TanningRack"
+	},
+	{
+		"abr": "teaktree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_TeakTree"
+	},
+	{
+		"abr": "tealsterilewall",
+		"price": 61,
+		"category": "",
+		"defname": "Wall_SterileTeal"
+	},
+	{
+		"abr": "tidalgenerator",
+		"price": 1500,
+		"category": "",
+		"defname": "VFE_TidalGenerator"
+	},
+	{
+		"abr": "tilableartificialecosystem",
+		"price": 492,
+		"category": "",
+		"defname": "VFE_Ecosystem_Tilable"
+	},
+	{
+		"abr": "tilablehydroponicsbasin",
+		"price": 137,
+		"category": "",
+		"defname": "VFE_Hydroponics_Tilable"
+	},
+	{
+		"abr": "tilableplanterbox",
+		"price": 15,
+		"category": "",
+		"defname": "VFE_PlanterBox_Tilable"
+	},
+	{
+		"abr": "toxicwastebarrel",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_ToxicWasteBarrel"
+	},
+	{
+		"abr": "transportpod",
+		"price": 253,
+		"category": "",
+		"defname": "TransportPod"
+	},
+	{
+		"abr": "trash",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthTrash"
+	},
+	{
+		"abr": "trench",
+		"price": 40,
+		"category": "",
+		"defname": "VFES_Trench"
+	},
+	{
+		"abr": "tripledisplaydashboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_TripleDisplay"
+	},
+	{
+		"abr": "usymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolU"
+	},
+	{
+		"abr": "undergroundpowerconduit",
+		"price": 5,
+		"category": "",
+		"defname": "DZ_CamoConduit"
+	},
+	{
+		"abr": "uraniumslugturret",
+		"price": 2408,
+		"category": "",
+		"defname": "Turret_Sniper"
+	},
+	{
+		"abr": "ventilationshaft",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_VentilationShaft"
+	},
+	{
+		"abr": "vomit",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthVomit"
+	},
+	{
+		"abr": "wsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolW"
+	},
+	{
+		"abr": "wall",
+		"price": 17,
+		"category": "",
+		"defname": "Wall"
+	},
+	{
+		"abr": "wallpaper",
+		"price": 18,
+		"category": "",
+		"defname": "VFE_Wallpaper"
+	},
+	{
+		"abr": "warningdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordWarning"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_WashingMachine"
+	},
+	{
+		"abr": "waterbucket",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_BucketwithWater"
+	},
+	{
+		"abr": "waterdispenser",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_WaterDispenser"
+	},
+	{
+		"abr": "watertank",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_WaterTank"
+	},
+	{
+		"abr": "watermillgenerator",
+		"price": 1000,
+		"category": "",
+		"defname": "WatermillGenerator"
+	},
+	{
+		"abr": "waterproofconduit",
+		"price": 32,
+		"category": "",
+		"defname": "WaterproofConduit"
+	},
+	{
+		"abr": "whitedeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryWhite"
+	},
+	{
+		"abr": "whitefamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyWhite"
+	},
+	{
+		"abr": "whitegunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossWhite"
+	},
+	{
+		"abr": "whitepickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupWhite"
+	},
+	{
+		"abr": "whiteskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipWhite"
+	},
+	{
+		"abr": "whitevintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageWhite"
+	},
+	{
+		"abr": "willowtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_WillowTree"
+	},
+	{
+		"abr": "wingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallWing"
+	},
+	{
+		"abr": "woodenatm",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenATM"
+	},
+	{
+		"abr": "woodencupboard",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboard"
+	},
+	{
+		"abr": "woodencupboardwithplates",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboardPlates"
+	},
+	{
+		"abr": "woodendivider",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenDivider"
+	},
+	{
+		"abr": "woodendoublecupboard",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboardDouble"
+	},
+	{
+		"abr": "woodenmirror",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenMirror"
+	},
+	{
+		"abr": "woodennarrowcupboard",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboardNarrow"
+	},
+	{
+		"abr": "woodenplankdivider",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenPlankDivider"
+	},
+	{
+		"abr": "woodenplatform",
+		"price": 5,
+		"category": "",
+		"defname": "VFEPD_WoodenPlatform"
+	},
+	{
+		"abr": "advancedvest",
+		"price": 725,
+		"category": "Armor",
+		"defname": "VAE_Apparel_AdvancedVest"
+	},
+	{
+		"abr": "animalsbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookAnimals"
+	},
+	{
+		"abr": "anti-materialrifle",
+		"price": 1717,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_AntiMaterialRifle"
+	},
+	{
+		"abr": "apron",
+		"price": 204,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Apron"
+	},
+	{
+		"abr": "artbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookArt"
+	},
+	{
+		"abr": "automaticpistol",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_AutomaticPistol"
+	},
+	{
+		"abr": "balaclava",
+		"price": 80,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Balaclava"
+	},
+	{
+		"abr": "ballisticgoggles",
+		"price": 134,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_BallisticGoggles"
+	},
+	{
+		"abr": "baseballcap",
+		"price": 77,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_BaseballCap"
+	},
+	{
+		"abr": "baton",
+		"price": 206,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Baton"
+	},
+	{
+		"abr": "battleaxe",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_BattleAxe"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BattleRifle"
+	},
+	{
+		"abr": "blouse",
+		"price": 126,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Blouse"
+	},
+	{
+		"abr": "blueprint",
+		"price": 2667,
+		"category": "Books",
+		"defname": "VBE_Blueprint"
+	},
+	{
+		"abr": "boots",
+		"price": 110,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_Boots"
+	},
+	{
+		"abr": "builder'sjacket",
+		"price": 122,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_BuildersJacket"
+	},
+	{
+		"abr": "bulletproofvest",
+		"price": 1100,
+		"category": "Armor",
+		"defname": "VAE_Apparel_BulletproofVest"
+	},
+	{
+		"abr": "bullpupdmr",
+		"price": 1692,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BullpupDMR"
+	},
+	{
+		"abr": "bullpuprifle",
+		"price": 1158,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BullpupRifle"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Carbine"
+	},
+	{
+		"abr": "casualt-shirt",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_CasualTShirt"
+	},
+	{
+		"abr": "chainmail",
+		"price": 417,
+		"category": "Armor",
+		"defname": "VAE_Apparel_Chainmail"
+	},
+	{
+		"abr": "chargelmg",
+		"price": 2833,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "chargeminigun",
+		"price": 5458,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeMinigun"
+	},
+	{
+		"abr": "chargepistol",
+		"price": 1008,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargePistol"
+	},
+	{
+		"abr": "chargerocketlauncher",
+		"price": 11667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeRocketLauncher"
+	},
+	{
+		"abr": "chargeshotgun",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeShotgun"
+	},
+	{
+		"abr": "chargesmg",
+		"price": 1508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSMG"
+	},
+	{
+		"abr": "chargesniperrifle",
+		"price": 2050,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "chef'stoque",
+		"price": 112,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_ChefsToque"
+	},
+	{
+		"abr": "chef'suniform",
+		"price": 222,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_ChefsUniform"
+	},
+	{
+		"abr": "chestplate",
+		"price": 383,
+		"category": "Armor",
+		"defname": "VAE_Apparel_Chestplate"
+	},
+	{
+		"abr": "cleaver",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Cleaver"
+	},
+	{
+		"abr": "cloak",
+		"price": 204,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Cape"
+	},
+	{
+		"abr": "combathandgun",
+		"price": 291,
+		"category": "Ranged weapons",
+		"defname": "VWE_CombatHandgun"
+	},
+	{
+		"abr": "combatknife",
+		"price": 205,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 240,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Compound"
+	},
+	{
+		"abr": "constructionbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookConstruction"
+	},
+	{
+		"abr": "cookingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookCooking"
+	},
+	{
+		"abr": "craftingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookCrafting"
+	},
+	{
+		"abr": "crossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Crossbow"
+	},
+	{
+		"abr": "doctorscrubs",
+		"price": 186,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_DoctorScrubs"
+	},
+	{
+		"abr": "empgrenadebelt",
+		"price": 525,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeEMPBelt"
+	},
+	{
+		"abr": "fedora",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Fedora"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_FireExtinguisher"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flamethrower"
+	},
+	{
+		"abr": "flashgrenadebelt",
+		"price": 525,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeFlashBelt"
+	},
+	{
+		"abr": "flashgrenades",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "VWE_FlashGrenade"
+	},
+	{
+		"abr": "fleeceshirt",
+		"price": 160,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_FleeceShirt"
+	},
+	{
+		"abr": "flintlock",
+		"price": 275,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flintlock"
+	},
+	{
+		"abr": "fraggrenadebelt",
+		"price": 442,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeFragBelt"
+	},
+	{
+		"abr": "gambeson",
+		"price": 280,
+		"category": "Armor",
+		"defname": "VAE_Apparel_Gambeson"
+	},
+	{
+		"abr": "gasmask",
+		"price": 193,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_GasMask"
+	},
+	{
+		"abr": "ghilliehood",
+		"price": 168,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_GhillieHood"
+	},
+	{
+		"abr": "ghilliesuit",
+		"price": 475,
+		"category": "Armor",
+		"defname": "VAE_Apparel_GhillieSuit"
+	},
+	{
+		"abr": "glasses",
+		"price": 38,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Glasses"
+	},
+	{
+		"abr": "gloves",
+		"price": 89,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Handwear_Gloves"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GrenadeLauncher"
+	},
+	{
+		"abr": "growingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookGrowing"
+	},
+	{
+		"abr": "halberd",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 281,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Hammer"
+	},
+	{
+		"abr": "handcannon",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HandCannon"
+	},
+	{
+		"abr": "hardhat",
+		"price": 164,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Hardhat"
+	},
+	{
+		"abr": "hatchet",
+		"price": 147,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Axe"
+	},
+	{
+		"abr": "hazmatmask",
+		"price": 308,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_HAZMATMask"
+	},
+	{
+		"abr": "hazmatsuit",
+		"price": 933,
+		"category": "Armor",
+		"defname": "VAE_Apparel_HAZMATSuit"
+	},
+	{
+		"abr": "heavymarinearmor",
+		"price": 5250,
+		"category": "Armor",
+		"defname": "VAE_Apparel_HeavyMarineArmor"
+	},
+	{
+		"abr": "heavymarinehelmet",
+		"price": 1242,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_HeavyMarineHelmet"
+	},
+	{
+		"abr": "hmg",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HMG"
+	},
+	{
+		"abr": "hood",
+		"price": 108,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Hood"
+	},
+	{
+		"abr": "hoodie",
+		"price": 259,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Hoodie"
+	},
+	{
+		"abr": "intellectualbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookIntellectual"
+	},
+	{
+		"abr": "jeans",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Jeans"
+	},
+	{
+		"abr": "jumpsuit",
+		"price": 280,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Jumpsuit"
+	},
+	{
+		"abr": "labcoat",
+		"price": 242,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_LabCoat"
+	},
+	{
+		"abr": "laserminigun",
+		"price": 7500,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserMinigun"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserPistol"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserRifle"
+	},
+	{
+		"abr": "lasershotgun",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserShotgun"
+	},
+	{
+		"abr": "lasersmg",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserSMG"
+	},
+	{
+		"abr": "lasersniperrifle",
+		"price": 6000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserSniperRifle"
+	},
+	{
+		"abr": "lasersword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "VWEL_LaserSword"
+	},
+	{
+		"abr": "lever-actionrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LeverActionRifle"
+	},
+	{
+		"abr": "lightplatearmor",
+		"price": 542,
+		"category": "Armor",
+		"defname": "VAE_Apparel_LightPlateArmor"
+	},
+	{
+		"abr": "lightsmg",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "longbow",
+		"price": 197,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Long"
+	},
+	{
+		"abr": "map",
+		"price": 1333,
+		"category": "Books",
+		"defname": "VBE_Map"
+	},
+	{
+		"abr": "marineboots",
+		"price": 808,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_MarineBoots"
+	},
+	{
+		"abr": "marinegloves",
+		"price": 733,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Handwear_MarineGloves"
+	},
+	{
+		"abr": "marksmanrifle",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MarksmanRifle"
+	},
+	{
+		"abr": "medicalbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookMedical"
+	},
+	{
+		"abr": "meleebook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookMelee"
+	},
+	{
+		"abr": "militaryberet",
+		"price": 77,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Beret"
+	},
+	{
+		"abr": "militaryjacket",
+		"price": 425,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_MilitaryJacket"
+	},
+	{
+		"abr": "militaryuniform",
+		"price": 246,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_MilitaryUniform"
+	},
+	{
+		"abr": "miningbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookMining"
+	},
+	{
+		"abr": "molotovbelt",
+		"price": 408,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeMolotovBelt"
+	},
+	{
+		"abr": "musket",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Musket"
+	},
+	{
+		"abr": "newspaper",
+		"price": 33,
+		"category": "Books",
+		"defname": "VBE_Newspaper"
+	},
+	{
+		"abr": "nightvisiongoggles",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_NightVisionGoggles"
+	},
+	{
+		"abr": "overalls",
+		"price": 180,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Overalls"
+	},
+	{
+		"abr": "pdw",
+		"price": 892,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_PDW"
+	},
+	{
+		"abr": "peltcoat",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_PeltCoat"
+	},
+	{
+		"abr": "pickaxe",
+		"price": 248,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Pickaxe"
+	},
+	{
+		"abr": "plateboots",
+		"price": 207,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_PlateBoots"
+	},
+	{
+		"abr": "plategloves",
+		"price": 173,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Handwear_PlateGloves"
+	},
+	{
+		"abr": "platehelmet",
+		"price": 207,
+		"category": "Headgear",
+		"defname": "VAE_Apparel_PlateHelmet"
+	},
+	{
+		"abr": "plateshoulderpads",
+		"price": 181,
+		"category": "Armor",
+		"defname": "VAE_Apparel_PlateShoulderpads"
+	},
+	{
+		"abr": "quiltedvest",
+		"price": 210,
+		"category": "Armor",
+		"defname": "VAE_Apparel_QuiltedVest"
+	},
+	{
+		"abr": "rocketlauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_RocketLauncher"
+	},
+	{
+		"abr": "salvagedlaserpistol",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserPistol"
+	},
+	{
+		"abr": "salvagedlaserrifle",
+		"price": 3250,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserRifle"
+	},
+	{
+		"abr": "salvagedlasershotgun",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserShotgun"
+	},
+	{
+		"abr": "salvagedlasersniperrifle",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
+	},
+	{
+		"abr": "sawed-offshotgun",
+		"price": 297,
+		"category": "Ranged weapons",
+		"defname": "VWE_SawedOffShotgun"
+	},
+	{
+		"abr": "scalpel",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Scalpel"
+	},
+	{
+		"abr": "scarf",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Scarf"
+	},
+	{
+		"abr": "semi-automaticrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SemiAutomaticRifle"
+	},
+	{
+		"abr": "servicerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ServiceRifle"
+	},
+	{
+		"abr": "sheriffshirt",
+		"price": 213,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_SheriffShirt"
+	},
+	{
+		"abr": "shirtandtie",
+		"price": 151,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_ShirtandTie"
+	},
+	{
+		"abr": "shoes",
+		"price": 114,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_Shoes"
+	},
+	{
+		"abr": "shootingbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookShooting"
+	},
+	{
+		"abr": "shorts",
+		"price": 141,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Shorts"
+	},
+	{
+		"abr": "shovel",
+		"price": 327,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Shovel"
+	},
+	{
+		"abr": "skirt",
+		"price": 142,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Skirt"
+	},
+	{
+		"abr": "smg",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SMG"
+	},
+	{
+		"abr": "smokegrenadebelt",
+		"price": 218,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeSmokeBelt"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 215,
+		"category": "Grenades",
+		"defname": "VWE_SmokeGrenade"
+	},
+	{
+		"abr": "socialbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VBE_BookSocial"
+	},
+	{
+		"abr": "stonewarmask",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_StoneWarMask"
+	},
+	{
+		"abr": "suitjacket",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_SuitJacket"
+	},
+	{
+		"abr": "summerhat",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_SummerHat"
+	},
+	{
+		"abr": "sunglasses",
+		"price": 156,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Sunglasses"
+	},
+	{
+		"abr": "surgicalmask",
+		"price": 121,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_SurgicalMask"
+	},
+	{
+		"abr": "tanktop",
+		"price": 107,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TankTop"
+	},
+	{
+		"abr": "teslagun",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_TeslaGun"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 161,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Knives"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 11,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "toxicgrenadebelt",
+		"price": 1417,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeToxicBelt"
+	},
+	{
+		"abr": "toxicgrenades",
+		"price": 1417,
+		"category": "Grenades",
+		"defname": "VWE_ToxicGrenade"
+	},
+	{
+		"abr": "trapperhat",
+		"price": 130,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_TrapperHat"
+	},
+	{
+		"abr": "tribalkilt",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalKilt"
+	},
+	{
+		"abr": "tribalponcho",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalPoncho"
+	},
+	{
+		"abr": "trousers",
+		"price": 164,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Trousers"
+	},
+	{
+		"abr": "tunic",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Tunic"
+	},
+	{
+		"abr": "typewritertable",
+		"price": 342,
+		"category": "Production",
+		"defname": "VBE_TypewritersTable"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "woodenarmor",
+		"price": 300,
+		"category": "Armor",
+		"defname": "VAE_Apparel_WoodenArmor"
+	},
+	{
+		"abr": "wrench",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Wrench"
+	},
+	{
+		"abr": "writerstable",
+		"price": 252,
+		"category": "Production",
+		"defname": "VBE_WritersTable"
 	}
 	],
-	"total": 1109
+	"total": 1705
 }
